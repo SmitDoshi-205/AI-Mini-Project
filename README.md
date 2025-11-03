@@ -65,10 +65,11 @@ Defined in `settings.py`:
 | Hard   | 250 px         | 0.10         | 17              |2.5s                | Fast reaction, accurate aim, fires aggressively |
 
 🕹️ Controls
-Action	Key
-Move    Up	W
-Move    Down	S
-Move    Left	A
-Move    Right	D
-Fire	  Spacebar
-Quit    Game	Esc
+|   Action	|   Key   |
+|-----------|---------|     
+|Move Up	  |W        |
+|Move Down	|S        |
+|Move Left	|A        | 
+|Move Right	|D        |
+|Fire	      |Spacebar | 
+|Quit Game	|Esc      |
