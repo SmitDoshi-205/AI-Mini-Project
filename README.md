@@ -24,6 +24,7 @@ TANK BATTLE/
 ├── minimax.py # Minimax algorithm with heuristics for shooting logic
 ├── settings.py # Game settings, difficulty levels, constants (e.g. speed, fire rate)
 └── pycache/ # Auto-generated compiled Python cache files
+
 ## 🧮 Algorithms Used
 
 ### 1️⃣ A* (A-Star Pathfinding)
@@ -62,6 +63,7 @@ Defined in `settings.py`:
 | Easy   | 90  px         | 0.01         | 35              |4s                  | Slow movement, long aiming delay, fires rarely |
 | Medium | 150 px         | 0.05         | 25              |3s                  | Balanced difficulty, moderate speed |
 | Hard   | 250 px         | 0.10         | 17              |2.5s                | Fast reaction, accurate aim, fires aggressively |
+
 🕹️ Controls
 Action	Key
 Move    Up	W
